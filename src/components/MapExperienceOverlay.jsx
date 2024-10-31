@@ -1,6 +1,6 @@
 import React from "react";
 import { MapPin } from "lucide-react";
-import world_map from "../assets/world_map_pink.jpg";
+import world_map from "../assets/world_map_pink.png";
 
 const MapExperienceOverlay = () => {
   const experiences = [
