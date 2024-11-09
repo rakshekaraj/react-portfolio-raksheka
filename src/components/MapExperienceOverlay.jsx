@@ -43,7 +43,7 @@ const MapExperienceOverlay = () => {
         <img
           src={world_map}
           alt="World Map"
-          className="w-full h-auto brightness-[0.15] object-contain"
+          className="w-full h-auto brightness-[0.65] object-contain"
         />
 
         {/* Experience markers and labels */}
