@@ -43,7 +43,8 @@ const Navbar = () => {
             </li>
             <li className="hover:text-purple-400">
               <a
-                href="https://github.com/rakshekaraj/rakshekaraj/blob/main/Raksheka_resume_Dec19_2024.pdf"
+                // href="https://github.com/rakshekaraj/rakshekaraj/blob/main/Raksheka_resume_Dec19_2024.pdf"
+                href="https://github.com/rakshekaraj/rakshekaraj/blob/main/Raksheka_resume_Jan_23_2025.pdf"
                 download="raksheka_resume"
                 target="_blank"
               >
