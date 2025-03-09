@@ -5,11 +5,16 @@ export default {
     extend: {
       animation: {
         "loop-scroll": "loop-scroll 50s linear infinite",
+        wiggle: "wiggle 0.3s ease-in-out infinite",
       },
       keyframes: {
         "loop-scroll": {
-          from: { transform: "translateX(5%)" },
+          from: { transform: "translateX(100%)" },
           to: { transform: "translateX(-100%)" },
+        },
+        wiggle: {
+          "0%, 100%": { transform: "rotate(-5deg)" },
+          "50%": { transform: "rotate(5deg)" },
         },
       },
     },
