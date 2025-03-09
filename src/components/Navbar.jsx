@@ -1,6 +1,7 @@
 import logo from "../assets/raksheka_logo_pink.png";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 // import Projects from "../components/Projects";
 import React, { useState } from "react";
@@ -71,12 +72,13 @@ const Navbar = () => {
               </a>
             </li>
             <li className="hover:text-purple-400">
-              <a href=" /Projects">Projects</a>
-
+              {/* <a href=" /Projects">Projects</a> */}
+              <Link to="/projects">Projects</Link>
               {/* <Link to="/Projects">pro</Link> */}
             </li>
             <li className="hover:text-purple-500">
-              <a href="/exp_page">Experience</a>
+              {/* <a href="/exp_page">Experience</a> */}
+              <Link to="/exp_page">Experience</Link>
             </li>
             <li className="hover:text-purple-500">Blogs</li>
             <li>
