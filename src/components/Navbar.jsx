@@ -65,8 +65,8 @@ const Navbar = () => {
             </li> */}
             <li className="hover:text-purple-400">
               <a
-                href="https://raw.githubusercontent.com/rakshekaraj/rakshekaraj/main/raksheka_resume_MLE.pdf"
-                download="Raksheka_resume_Jan_23_2025.pdf"
+                href="https://raw.githubusercontent.com/rakshekaraj/rakshekaraj/main/raksheka_rajakumar_resume_overall.pdf"
+                download="Raksheka_resume_Mar10_2025.pdf"
               >
                 Resume
               </a>
