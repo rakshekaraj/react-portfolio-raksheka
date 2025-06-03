@@ -51,6 +51,28 @@ const projects = [
     link: "#",
     domain: ["ml", "sde"], // Belongs to both ML & SDE
   },
+  {
+    title: "Delhi Air Pulse",
+    description:
+      "cloud-native AQI intelligence platform using AWS Lambda, DynamoDB, and microservices to deliver real-time air quality analytics and forecasts. It features a React.js frontend with multi-zone heatmaps and embedded ML inference for dynamic, low-latency insights.",
+    link: "#",
+    domain: ["sde"],
+  },
+  {
+    title: "Custom Multi-Head Attention CUDA Kernel for High-Throughput LLMs",
+    description:
+      "Built a custom CUDA kernel to optimize multi-head attention in transformers, achieving 3× faster inference and 40% memory savings. Integrated into PyTorch with mixed-precision and tiling optimizations, boosting GPU throughput by 150% on NVIDIA A100.",
+    link: "#",
+    domain: ["ml"],
+  },
+  {
+    title:
+      "MPS - Custom operation: Optimized Scaled Dot-Product Attention for PyTorch Backend",
+    description:
+      "Optimized a Scaled Dot-Product Attention operator for PyTorch’s MPS backend, reducing memory failures by 70% via dynamic chunking and buffer reuse. Improved long-context inference stability beyond 12k tokens by integrating low-level memory and graph execution enhancements.",
+    link: "https://medium.com/@rakshekaraj/optimizing-pytorch-mps-attention-memory-efficient-large-sequence-processing-without-accuracy-5239f565f07b",
+    domain: ["ml"],
+  },
 ];
 
 const Project = () => {
@@ -118,6 +140,8 @@ const Project = () => {
               <p className="text-gray-300 mt-2">{project.description}</p>
               <a
                 href={project.link}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block mt-3 text-slate-300 font-medium hover:underline"
               >
                 View Project →
