@@ -65,8 +65,9 @@ const Navbar = () => {
             </li> */}
             <li className="hover:text-purple-400">
               <a
-                href="https://github.com/rakshekaraj/rakshekaraj/raw/main/raksheka_latest_Resume.pdf"
-                download="Raksheka_resume_Mar10_2025.pdf"
+                href="https://github.com/rakshekaraj/rakshekaraj/raw/main/raksheka_resume_.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Resume
               </a>
@@ -80,7 +81,9 @@ const Navbar = () => {
               {/* <a href="/exp_page">Experience</a> */}
               <Link to="/exp_page">Experience</Link>
             </li>
-            <li className="hover:text-purple-500">Blogs</li>
+            <li className="hover:text-purple-500">
+              <Link to="/blogs">Blogs</Link>
+            </li>
             <li>
               <a
                 href="https://www.linkedin.com/in/raksheka/"

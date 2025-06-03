@@ -45,13 +45,6 @@ const projects = [
     domain: ["sde", "ml"],
   },
   {
-    title: "AI-Powered Code Generation",
-    description:
-      "Developed an AI-assisted programming assistant leveraging LLMs to generate, debug, and optimize code for multiple languages.",
-    link: "#",
-    domain: ["ml", "sde"], // Belongs to both ML & SDE
-  },
-  {
     title: "Delhi Air Pulse",
     description:
       "cloud-native AQI intelligence platform using AWS Lambda, DynamoDB, and microservices to deliver real-time air quality analytics and forecasts. It features a React.js frontend with multi-zone heatmaps and embedded ML inference for dynamic, low-latency insights.",

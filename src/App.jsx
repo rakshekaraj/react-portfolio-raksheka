@@ -13,6 +13,7 @@ import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 
 import ProjectGrid from "./components/ProjectGrid";
+import Blogs from "./components/Blogs";
 // import { Route } from "lucide-react";
 
 const Home = () => {
@@ -60,6 +61,7 @@ const App = () => {
             />
 
             <Route path="/projects" element={<Projects />} />
+            <Route path="/blogs" element={<Blogs />} />
           </Routes>
         </Router>
       </div>
