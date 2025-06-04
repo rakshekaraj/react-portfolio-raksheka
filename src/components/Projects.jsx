@@ -10,6 +10,14 @@ const projects = [
     domain: ["ml"],
   },
   {
+    title:
+      "Smart Meeting Summarizer – LLM-Powered Chrome Extension for Google Meet",
+    description:
+      "Developed a Chrome extension that captures live captions from Google Meet and summarizes them using OpenAI’s GPT-3.5 via a FastAPI backend. Integrated DOM parsing, transcript buffering, and AWS-hosted inference to deliver real-time meeting insights.",
+    link: "https://medium.com/@rakshekaraj/smart-meeting-summarizer-your-ai-assistant-for-google-meet-57f957a206ca",
+    domain: ["ml"],
+  },
+  {
     title: "Wildfire Aftermath Analysis using Satellite Imagery",
     description:
       "Built a segmentation pipeline with Detectron2 & Mask R-CNN for wildfire damage assessment, using Hadoop for distributed storage.",

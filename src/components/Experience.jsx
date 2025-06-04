@@ -159,7 +159,7 @@ const Timeline = () => {
     },
     {
       title: "MSAII",
-      role: "Machine Learning Engineer",
+      role: "Software Engineering Intern",
       date: "Nov 2022 - Feb 2023",
       location: "Chennai, Tamil Nadu, India",
       workType: "Contract · Remote",

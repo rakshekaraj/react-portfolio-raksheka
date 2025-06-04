@@ -10,6 +10,14 @@ const blogs = [
     tags: ["AI", "PyTorch", "Performance"],
   },
   {
+    title:
+      "Smart Meeting Summarizer – LLM-Powered Chrome Extension for Google Meet",
+    summary:
+      "Developed a Chrome extension that captures live captions from Google Meet and summarizes them using OpenAI’s GPT-3.5 via a FastAPI backend. Integrated DOM parsing, transcript buffering, and AWS-hosted inference to deliver real-time meeting insights.",
+    link: "https://medium.com/@rakshekaraj/smart-meeting-summarizer-your-ai-assistant-for-google-meet-57f957a206ca",
+    tags: ["Generative AI", "FastAPI", "LLM", "Chrome Extension"],
+  },
+  {
     title: "Federated Learning: Encoder Aggregation with Contribution Factors",
     summary:
       "Explains how personalizing decoders and weighting clients in federated learning can improve model performance in sensitive medical segmentation tasks.",
