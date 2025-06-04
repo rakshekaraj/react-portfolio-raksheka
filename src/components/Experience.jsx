@@ -137,7 +137,7 @@ const Timeline = () => {
     },
     {
       title: "KANINI",
-      role: "Associate Trainee Intern",
+      role: "Software Engineering Intern",
       date: "Feb 2023 - Jun 2023",
       location: "Chennai, Tamil Nadu, India",
       workType: "Full-time",
@@ -165,7 +165,13 @@ const Timeline = () => {
       workType: "Contract · Remote",
       description:
         "Collaborated with a group of engineers to optimize network to ensure 99% system up-time while reducing network costs by 25%. Enhanced a classification model for customer emotion analysis, achieving 2-checkpoint reductions in error metric.",
-      skills: ["Computer Vision", "DBMS"],
+      skills: [
+        "Web development",
+        "API handling",
+        "",
+        "Computer Vision",
+        "DBMS",
+      ],
       isLeft: true,
     },
     {
