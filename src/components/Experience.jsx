@@ -176,7 +176,7 @@ const Timeline = () => {
     },
     {
       title: "Mitacs",
-      role: "Machine Learning Research Intern",
+      role: "Machine Learning Globalink Research Intern",
       date: "Jul 2022 - Oct 2022",
       location: "Waterloo, Ontario, Canada",
       workType: "Full-time · On-site",
