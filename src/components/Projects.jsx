@@ -6,7 +6,7 @@ const projects = [
     title: "Federated Learning in 3D Brain-tumor Segmentation",
     description:
       "Pioneered research on federated learning aggregation algorithms for multimodal 3D brain tumor segmentation, training ResUNet and Transformer-encoded UNet models to achieve performance comparable to centralized learning approaches.",
-    link: "#",
+    link: "https://medium.com/@rakshekaraj/contribution-aware-personalization-for-3d-federated-brain-tumor-segmentation-8b5d62200428",
     domain: ["ml"],
   },
   {
