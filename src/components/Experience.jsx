@@ -164,7 +164,7 @@ const Timeline = () => {
       location: "Chennai, Tamil Nadu, India",
       workType: "Contract · Remote",
       description:
-        "Collaborated with a group of engineers to optimize network to ensure 99% system up-time while reducing network costs by 25%. Enhanced a classification model for customer emotion analysis, achieving 2-checkpoint reductions in error metric.",
+        "Engineered a resilient microservices backend (FastAPI, Celery, RabbitMQ) for React dashboard, designed for fault isolation and horizontal scalability",
       skills: [
         "Web development",
         "API handling",
@@ -181,7 +181,7 @@ const Timeline = () => {
       location: "Waterloo, Ontario, Canada",
       workType: "Full-time · On-site",
       description:
-        "Conducted predictive modelling to assess digital fluency among Ontario's education professionals. Finished a VGG-16 and Resnet-34 inspired CNN model for object classification and identification. Devised machine learning models, identified thresholds for exploding gradients and solved it by infusing residual loops into convolutional blocks to increase accuracy by 6%.",
+        "Assembled and modeled k8 rovers for a project sponsored by Canadian Space Agency, demonstrated usage through seminars for PhD candidates, under Dr Julie Mueller and Inksmith Technologies. Researched and applied RCNN models to increase speed in object detection in rover prototypes by 15%",
       skills: [
         "Data Analytics",
         "Computer Vision",
