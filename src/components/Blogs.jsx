@@ -21,7 +21,7 @@ const blogs = [
     title: "Federated Learning: Encoder Aggregation with Contribution Factors",
     summary:
       "Explains how personalizing decoders and weighting clients in federated learning can improve model performance in sensitive medical segmentation tasks.",
-    link: "#",
+    link: "https://medium.com/@rakshekaraj/contribution-aware-personalization-for-3d-federated-brain-tumor-segmentation-8b5d62200428",
     tags: ["Federated Learning", "Medical AI"],
   },
   // Add more blogs here
