@@ -15,7 +15,7 @@ const Contact = () => {
           <FaGithub />
           <FaInstagram />
         </div>
-        <p className="my-4">+1 323(646)-3734</p>
+        <p className="my-4"> *** </p>
         <a href="rakshekaraj@gmail.com" className="border-b">
           rakshekaraj@gmail.com
         </a>
