@@ -128,11 +128,11 @@ const Timeline = () => {
       title: "Amazon",
       role: "SDE",
       date: "September 2025 - present",
-      location: "Los Angeles, California, United States",
-      workType: "Internship · Hybrid",
+      location: "Seattle, Washington, United States",
+      workType: "Full-time",
       description:
-        "Leveraged deep learning models to develop a SOTA recommender system for a TikTok-style application for employment using Nvidia Merlin for pipeline creation and AWS Sage maker for Cloud deployment. Major focus: Candidate retrieval system and model development (Merlin with Two tower architecture)",
-      skills: ["MongoDB", "Nvidia Merlin", "AWS SageMaker"],
+        "Working with a team on risk management and bot mitigation.",
+      skills: ["Java", "JavaScript"],
       isLeft: true,
     },
     {
