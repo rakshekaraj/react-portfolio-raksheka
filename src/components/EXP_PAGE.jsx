@@ -129,8 +129,11 @@ const Timeline_1 = () => {
       title: "Amazon",
       role: "SDE",
       date: "September 2025 - present",
-      location: "Los Angeles, California, United States",
+      location: "Seattle, Washington, United States",
       workType: "Full-time",
+      description:
+        "",
+      skills: ["Java", "JavaScript"],
       isLeft: false,
     },
     {
