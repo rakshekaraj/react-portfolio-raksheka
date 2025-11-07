@@ -126,14 +126,6 @@ const TimelineItem = ({
 const Timeline_1 = () => {
   const experiences = [
     {
-      title: "Amazon",
-      role: "Software Development Engineer",
-      date: "September 2025 - present",
-      location: "Seattle, Washington, United States",
-      workType: "FullTime",
-      isLeft: false,
-    },
-    {
       title: "WorkUp",
       role: "Machine Learning Engineer",
       date: "May 2024 - Jul 2024",
