@@ -131,9 +131,9 @@ const Timeline = () => {
       location: "Seattle, Washington, United States",
       workType: "Full-time",
       description:
-        "Working with a team on risk management and bot mitigation.",
+        "",
       skills: ["Java", "JavaScript"],
-      isLeft: true,
+      isLeft: false,
     },
     {
       title: "WorkUp",
